@@ -12,7 +12,7 @@ A Flutter-based chat UI app built by Vishweshwar Waychal
 Check the `screenshots/` folder
 
 ## 📦 APK
-Download the latest build here: [app-release.apk](./app-release.apk)
+Download the latest build here: [app-release.apk](./msgapp-ui/app-release.apk)
 
 ---
 
