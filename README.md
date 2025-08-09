@@ -1,17 +1,17 @@
-# MsgApp 📱
+# MsgApp
 
 A Flutter-based chat UI app built by Vishweshwar Waychal
 
-## 🔧 Features
+## Features
 - Clean UI using Flutter & Dart
 - Splash screen, login and OTP flow
 - Basic chat interface (under progress)
 - Built during late-night caffeine-fueled sessions by a curious CSE soul
 
-## 📸 Screenshots
-Check the `screenshots/` folder
+## Screenshots
+<img src="https://raw.githubusercontent.com/vishweshwar-waychal/vishweshwar-waychal/main/MsgApp%20Screen%20commercial.png" alt="MsgApp Screenshots" width="100%">
 
-## 📦 APK
+## APK
 Download the latest build here: [app-release.apk](./msgapp-ui/app-release.apk)
 
 ---
